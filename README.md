@@ -158,32 +158,31 @@ http://localhost:5173
 
 ### 🌙 Dark Mode
 
-![Dark Mode](screenshots/dashboard-dark.jpeg)
+![Dark Mode](./src/pages/screenshots/dashboard-dark.jpeg)
 
 ---
 
 ### ☀️ Light Mode
 
-![Light Mode](screenshots/dashboard-light.jpeg)
+![Light Mode](./src/pages/screenshots/dashboard-light.jpeg)
 
 ---
 
 ### 🌦️ Weather Search
 
-![Weather Search](screenshots/weather-search.jpeg)
+![Weather Search](./src/pages/screenshots/weather-search.jpeg)
 
 ---
 
 ### 📰 News Section
 
-![News Section](screenshots/news-section.jpeg)
+![News Section](./src/pages/screenshots/news-section.jpeg)
 
 ---
 
-### 📰 Top News
+### 🔥 Top News
 
-![Top News](screenshots/top-news.jpeg)
-
+![Top News](./src/pages/screenshots/top-news.jpeg)
 ---
 
 ## 🔐 Environment Variables
